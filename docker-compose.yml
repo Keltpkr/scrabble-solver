@@ -1,0 +1,6 @@
+version: '3.8'
+services:
+  scrabble-solver:
+    build: .
+    ports:
+      - "3333:3333"
