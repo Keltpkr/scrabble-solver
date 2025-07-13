@@ -1,0 +1,17 @@
+venv/
+*.pyc
+__pycache__/
+ocr_outputs/
+*.log
+.DS_Store
+.git/
+cases_lettres/
+cases_plateau/
+French-Scrabble-ODS8-main/
+image/
+preprocessed_debug/
+ocr_debug/
+test_OCR/
+debug_zones/
+*.zip
+.tmp*
